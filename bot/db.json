@@ -1,0 +1,380 @@
+{
+  "users": [
+    {
+      "id": "992703434375561318",
+      "points": 12
+    }
+  ],
+  "codes": [
+    {
+      "code": "9DCC0149",
+      "used": true,
+      "createdAt": 1779729017079
+    },
+    {
+      "code": "6831ED2C",
+      "used": false,
+      "createdAt": 1779729430127
+    },
+    {
+      "code": "83D61BF9",
+      "used": false,
+      "createdAt": 1779729430804
+    },
+    {
+      "code": "FE640C60",
+      "used": false,
+      "createdAt": 1779729431247
+    },
+    {
+      "code": "04B65343",
+      "used": false,
+      "createdAt": 1779729431408
+    },
+    {
+      "code": "CC4BD6B8",
+      "used": false,
+      "createdAt": 1779729431567
+    },
+    {
+      "code": "DAB615EC",
+      "used": false,
+      "createdAt": 1779729431749
+    },
+    {
+      "code": "1F1136A6",
+      "used": false,
+      "createdAt": 1779729431901
+    },
+    {
+      "code": "4CFC436D",
+      "used": false,
+      "createdAt": 1779729432056
+    },
+    {
+      "code": "12C88B18",
+      "used": false,
+      "createdAt": 1779729432230
+    },
+    {
+      "code": "AE575796",
+      "used": false,
+      "createdAt": 1779729432377
+    },
+    {
+      "code": "53B7B11F",
+      "used": false,
+      "createdAt": 1779729432556
+    },
+    {
+      "code": "2AAE6401",
+      "used": false,
+      "createdAt": 1779729432884
+    },
+    {
+      "code": "E07CA810",
+      "used": false,
+      "createdAt": 1779729433061
+    },
+    {
+      "code": "C23B9913",
+      "used": false,
+      "createdAt": 1779729433234
+    },
+    {
+      "code": "F59F7354",
+      "used": false,
+      "createdAt": 1779729433423
+    },
+    {
+      "code": "7E612B76",
+      "used": false,
+      "createdAt": 1779729433604
+    },
+    {
+      "code": "1A55FF9B",
+      "used": false,
+      "createdAt": 1779729433772
+    },
+    {
+      "code": "85E95E53",
+      "used": false,
+      "createdAt": 1779729433948
+    },
+    {
+      "code": "7CD3B75D",
+      "used": false,
+      "createdAt": 1779729434131
+    },
+    {
+      "code": "D8253BC8",
+      "used": false,
+      "createdAt": 1779729434318
+    },
+    {
+      "code": "C85C928B",
+      "used": false,
+      "createdAt": 1779729434505
+    },
+    {
+      "code": "D19F2511",
+      "used": false,
+      "createdAt": 1779729434694
+    },
+    {
+      "code": "F296D817",
+      "used": false,
+      "createdAt": 1779729434890
+    },
+    {
+      "code": "E0D9F980",
+      "used": false,
+      "createdAt": 1779729435069
+    },
+    {
+      "code": "0F704409",
+      "used": false,
+      "createdAt": 1779729435259
+    },
+    {
+      "code": "9CFAAD60",
+      "used": false,
+      "createdAt": 1779729435437
+    },
+    {
+      "code": "3484DB01",
+      "used": false,
+      "createdAt": 1779729435770
+    },
+    {
+      "code": "F182DB1A",
+      "used": false,
+      "createdAt": 1779729436284
+    },
+    {
+      "code": "226D2DDB",
+      "used": false,
+      "createdAt": 1779729436459
+    },
+    {
+      "code": "433A07F8",
+      "used": false,
+      "createdAt": 1779729436641
+    },
+    {
+      "code": "A280A98A",
+      "used": false,
+      "createdAt": 1779729436964
+    },
+    {
+      "code": "C7A26B53",
+      "used": false,
+      "createdAt": 1779729437301
+    },
+    {
+      "code": "5FBB99BB",
+      "used": false,
+      "createdAt": 1779729437486
+    },
+    {
+      "code": "080B81ED",
+      "used": false,
+      "createdAt": 1779729437643
+    },
+    {
+      "code": "88C5AFAB",
+      "used": false,
+      "createdAt": 1779729437789
+    },
+    {
+      "code": "E7DCE73E",
+      "used": false,
+      "createdAt": 1779729437936
+    },
+    {
+      "code": "415C9AA9",
+      "used": false,
+      "createdAt": 1779729623988
+    },
+    {
+      "code": "5ECB9886",
+      "used": false,
+      "createdAt": 1779729624388
+    },
+    {
+      "code": "9A4A2EAE",
+      "used": false,
+      "createdAt": 1779729624526
+    },
+    {
+      "code": "6D969A7E",
+      "used": false,
+      "createdAt": 1779729624647
+    },
+    {
+      "code": "7845EC2B",
+      "used": false,
+      "createdAt": 1779729624764
+    },
+    {
+      "code": "2DD7C29F",
+      "used": false,
+      "createdAt": 1779729624918
+    },
+    {
+      "code": "9735DA10",
+      "used": false,
+      "createdAt": 1779729625061
+    },
+    {
+      "code": "E7AFD5E7",
+      "used": false,
+      "createdAt": 1779729625199
+    },
+    {
+      "code": "64059DF4",
+      "used": false,
+      "createdAt": 1779729625344
+    },
+    {
+      "code": "265CA81C",
+      "used": false,
+      "createdAt": 1779729625475
+    },
+    {
+      "code": "52FF27A0",
+      "used": false,
+      "createdAt": 1779729625608
+    },
+    {
+      "code": "5E36A70F",
+      "used": false,
+      "createdAt": 1779729625743
+    },
+    {
+      "code": "A01F7731",
+      "used": false,
+      "createdAt": 1779729625947
+    },
+    {
+      "code": "1AC75FE6",
+      "used": false,
+      "createdAt": 1779729626083
+    },
+    {
+      "code": "8F24AAE2",
+      "used": false,
+      "createdAt": 1779729627274
+    },
+    {
+      "code": "5AFBDB89",
+      "used": false,
+      "createdAt": 1779729627370
+    },
+    {
+      "code": "00A40E07",
+      "used": false,
+      "createdAt": 1779729627465
+    },
+    {
+      "code": "35A314A7",
+      "used": false,
+      "createdAt": 1779729627556
+    },
+    {
+      "code": "F278730C",
+      "used": false,
+      "createdAt": 1779729627659
+    },
+    {
+      "code": "051A1A31",
+      "used": false,
+      "createdAt": 1779729627760
+    },
+    {
+      "code": "18853CAE",
+      "used": false,
+      "createdAt": 1779729627857
+    },
+    {
+      "code": "1287330F",
+      "used": false,
+      "createdAt": 1779729628063
+    },
+    {
+      "code": "7846B2B5",
+      "used": false,
+      "createdAt": 1779729628167
+    },
+    {
+      "code": "226AA858",
+      "used": false,
+      "createdAt": 1779729628262
+    },
+    {
+      "code": "64A1065A",
+      "used": false,
+      "createdAt": 1779729628356
+    },
+    {
+      "code": "965D4899",
+      "used": false,
+      "createdAt": 1779729629741
+    },
+    {
+      "code": "1B2CDEF0",
+      "used": false,
+      "createdAt": 1779729629745
+    },
+    {
+      "code": "C860675A",
+      "used": false,
+      "createdAt": 1779729629748
+    },
+    {
+      "code": "B8B76E99",
+      "used": false,
+      "createdAt": 1779729629750
+    },
+    {
+      "code": "A8C4FF41",
+      "used": false,
+      "createdAt": 1779729629752
+    },
+    {
+      "code": "1F7EAF7D",
+      "used": false,
+      "createdAt": 1779729629755
+    },
+    {
+      "code": "772A9EA3",
+      "used": false,
+      "createdAt": 1779729629786
+    },
+    {
+      "code": "86E6E6C6",
+      "used": false,
+      "createdAt": 1779729629788
+    },
+    {
+      "code": "0DDF7C06",
+      "used": false,
+      "createdAt": 1779729629791
+    },
+    {
+      "code": "C51BF382",
+      "used": false,
+      "createdAt": 1779729629793
+    },
+    {
+      "code": "E77440EC",
+      "used": true,
+      "createdAt": 1779729647118
+    },
+    {
+      "code": "5055382A",
+      "used": true,
+      "createdAt": 1779729663475
+    }
+  ]
+}

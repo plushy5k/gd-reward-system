@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Earn Points</title>
+
+  <style>
+
+    body {
+      background: #111;
+      color: white;
+      font-family: Arial;
+      text-align: center;
+      padding-top: 100px;
+    }
+
+    button {
+      padding: 15px 30px;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    #code {
+      margin-top: 30px;
+      font-size: 30px;
+      color: lime;
+    }
+
+    #timer {
+      margin-top: 20px;
+      font-size: 20px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <h1>Regarde la pub</h1>
+
+  <p>Attends 15 secondes pour générer une clé.</p>
+
+  <div id="timer">
+    Temps restant : 15
+  </div>
+
+  <br>
+
+  <button id="claim" disabled>
+    Générer une clé
+  </button>
+
+  <div id="code"></div>
+
+  <script>
+
+    const button =
+      document.getElementById('claim');
+
+    const timerText =
+      document.getElementById('timer');
+
+    const codeText =
+      document.getElementById('code');
+
+    let timeLeft = 15;
+
+    function startTimer() {
+
+      button.disabled = true;
+
+      timeLeft = 15;
+
+      timerText.innerText =
+        `Temps restant : ${timeLeft}`;
+
+      const interval = setInterval(() => {
+
+        timeLeft--;
+
+        timerText.innerText =
+          `Temps restant : ${timeLeft}`;
+
+        if (timeLeft <= 0) {
+
+          clearInterval(interval);
+
+          timerText.innerText =
+            'Tu peux générer une clé.';
+
+          button.disabled = false;
+
+        }
+
+      }, 1000);
+
+    }
+
+    startTimer();
+
+    button.onclick = async () => {
+
+      button.disabled = true;
+
+      const response =
+        await fetch('/generate');
+
+      const data =
+        await response.json();
+
+      codeText.innerText =
+        `Clé : ${data.code}`;
+
+      startTimer();
+
+    };
+
+  </script>
+
+</body>
+</html>
